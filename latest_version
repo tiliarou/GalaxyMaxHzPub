@@ -1,7 +1,7 @@
 {
-  "latestVersion": "6.27",
-  "latestVersionCode": 10,
-  "url": "https://github.com/tribalfs/GalaxyMaxHzPub/releases/download/v6.27/galaxy_max_hz_v6.27.apk",
-  "releaseNotes": ["version 6.27", "- Fixed crashes on Galaxy Tab S7/S7+ when expanding notif panel", "- Fixed autorun bug (bug appeared in v6.25)", 
+  "latestVersion": "6.28",
+  "latestVersionCode": 11,
+  "url": "https://github.com/tribalfs/GalaxyMaxHzPub/releases/download/v6.28/galaxy_max_hz_v6.28.apk",
+  "releaseNotes": ["- Fixed crash when clicking refresh rate toggle while on Standard mode if ADB is not setup.","","version 6.27", "- Fixed crashes on Galaxy Tab S7/S7+ when expanding notif panel", "- Fixed autorun bug (bug appeared in v6.25)", 
   "- Fixed intermittent crashing when app goes on background and when turning on refresh rate monitor (bug appeared in v6.25)", "- Stability improvement on change resolution feature"]
 }
