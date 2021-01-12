@@ -1,6 +1,8 @@
 {
-  "latestVersion": "6.29",
-  "latestVersionCode": 12,
-  "url": "https://github.com/tribalfs/GalaxyMaxHzPub/releases/download/v6.29/galaxy_max_hz_v6.29.apk",
-  "releaseNotes": ["Fixed bug on notification not turning off sometimes even when overlay and screen off mod are disabled."]
+  "latestVersion": "6.30",
+  "latestVersionCode": 13,
+  "url": "https://github.com/tribalfs/GalaxyMaxHzPub/releases/download/v6.30/galaxy_max_hz_v6.30.apk",
+  "releaseNotes": ["- Fixed max hz button label not correctly updating after screen off.", 
+  "- Fixed intermittent crashes when service is restarted by the system",
+  "- Experimental fix for FPS counter intermittently doubling overtime."]
 }
