@@ -1,8 +1,6 @@
 {
-  "latestVersion": "6.30",
-  "latestVersionCode": 13,
-  "url": "https://github.com/tribalfs/GalaxyMaxHzPub/releases/download/v6.30/galaxy_max_hz_v6.30.apk",
-  "releaseNotes": ["- Fixed max hz button label not correctly updating after screen off.", 
-  "- Fixed intermittent crash when service is restarted by the system",
-  "- Experimental fix for FPS counter intermittently doubling overtime."]
+  "latestVersion": "6.31",
+  "latestVersionCode": 14,
+  "url": "https://github.com/tribalfs/GalaxyMaxHzPub/releases/download/v6.31/galaxy_max_hz_v6.31.apk",
+  "releaseNotes": ["-Stability improvements","-Reactivate ad-free using activation code"]
 }
