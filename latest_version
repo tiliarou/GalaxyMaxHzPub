@@ -1,6 +1,9 @@
 {
-  "latestVersion": "6.31",
-  "latestVersionCode": 14,
-  "url": "https://github.com/tribalfs/GalaxyMaxHzPub/releases/download/v6.31/galaxy_max_hz_v6.31.apk",
-  "releaseNotes": ["-Stability improvements","-Updated ad-free activation for resetted devices and those who have ad-free version of the old app package - now using activation code"]
+  "latestVersion": "6.32",
+  "latestVersionCode": 15,
+  "url": "https://github.com/tribalfs/GalaxyMaxHzPub/releases/download/v6.32/galaxy_max_hz_v6.32.apk",
+  "releaseNotes": [
+  "- Minor bug fixes",
+  "- Removed FPS counter (not so useful)",
+  "- Little extra for ad-free"]
 }
