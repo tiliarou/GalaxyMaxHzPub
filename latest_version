@@ -1,13 +1,13 @@
 {
   "latestVersion": "6.50",
-  "latestVersionCode": 20,
+  "latestVersionCode": 19,
   "url": "https://github.com/tribalfs/GalaxyMaxHzPub/releases/download/v6.50/galaxy_max_hz_v6.50.apk",
   "releaseNotes": ["- Fixed high mode not working on some S21/N20U devices", 
   "- Show real-time refresh rate in notification and/or overlay",
   "- Added some language support",
-  "- Improve notifications"
+  "- Improve notifications",
   "- Ad-free trial added",
-  "- Improve app power consumption"
+  "- Improve app power consumption",
   "- Stability and other improvements",
 "It is recommended to clear app data after this upate."]
 }
